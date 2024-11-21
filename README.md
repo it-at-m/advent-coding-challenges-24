@@ -43,6 +43,6 @@ it@M - opensource@muenchen.de
 
 <!-- project shields / links -->
 [made-with-love-shield]: https://img.shields.io/badge/made%20with%20%E2%9D%A4%20by-it%40M-yellow?style=for-the-badge
-[adventskalender-shield]: https://img.shields.io/badge/muenchen.digital-adventskalender-1e6cff?style=for-the-badge
+[adventskalender-shield]: https://img.shields.io/badge/M%C3%BCnchen.Digital.-%F0%9F%8E%84%20Adventskalender-1e6cff?style=for-the-badge
 [itm-opensource]: https://opensource.muenchen.de/
 [muenchen-digital]: https://muenchen.digital/
