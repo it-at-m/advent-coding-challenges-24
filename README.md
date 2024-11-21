@@ -1,6 +1,6 @@
 <!-- add Project Logo, if existing -->
 
-# [muenchen.digital](https://muenchen.digital) Adventskalender Coding Challenges 2024
+# [München.Digital.](https://muenchen.digital) Adventskalender Coding Challenges 2024
 
 [![Made with love by it@M][made-with-love-shield]][itm-opensource]
 [![München.Digital. Adventskalender][adventskalender-shield]][muenchen-digital]
