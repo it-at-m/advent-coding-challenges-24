@@ -3,7 +3,7 @@
 # [muenchen.digital](https://muenchen.digital) Adventskalender Coding Challenges 2024
 
 [![Made with love by it@M][made-with-love-shield]][itm-opensource]
-[![München.Digital. Adventskalender][muenchen-digital-adventskalender]][muenchen-digital]
+[![München.Digital. Adventskalender][adventskalender-shield]][muenchen-digital]
 <!-- feel free to add more shields, style 'for-the-badge' -> see https://shields.io/badges -->
 
 Hier findet ihr die Coding Challenges zum Adventskalender 2024 von [München.Digital.](https://muenchen.digital)
