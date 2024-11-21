@@ -27,6 +27,8 @@ Teilt eure Lösungen gerne auf euren Social Media Profilen mit dem Hashtag `#mue
 Zu jeder Challenge gibt es auch eine Musterlösung. 
 Diese findet ihr im Ordner `solutions`.
 
+1. [Lösung 1](challenges/challenge1_solution.ipynb) ⛄ 
+
 Falls ihr Fragen oder Probleme habt, könnt ihr gerne ein [Issue erstellen](https://github.com/it-at-m/advent-coding-challenges-24/issues/new) oder uns [eine E-Mail schreiben](mailto:itm.kicc@muenchen.de).
 
 ## License
