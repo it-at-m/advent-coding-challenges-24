@@ -1,6 +1,6 @@
 <!-- add Project Logo, if existing -->
 
-# [München.Digital.](https://muenchen.digital) Adventskalender Coding Challenges 2024
+# [München.Digital.](https://muenchen.digital) Advent Coding Challenges 2024
 
 [![Made with love by it@M][made-with-love-shield]][itm-opensource]
 [![München.Digital. Adventskalender][adventskalender-shield]][muenchen-digital]
@@ -12,7 +12,7 @@ Hier findet ihr die Coding Challenges zum Adventskalender 2024 von [München.Dig
 
 Über den kostenlosen Service Binder könnt ihr die Challenges interaktiv ausführen:
 
-[![Binder starten](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/it-at-m/advent-coding-challenges-24/HEAD)
+[![Binder starten][binder-shield]][start-binder]
 
 ## Challenges
 
@@ -50,5 +50,7 @@ it@M - opensource@muenchen.de
 <!-- project shields / links -->
 [made-with-love-shield]: https://img.shields.io/badge/made%20with%20%E2%9D%A4%20by-it%40M-yellow?style=for-the-badge
 [adventskalender-shield]: https://img.shields.io/badge/M%C3%BCnchen.Digital.-%F0%9F%8E%84%20Adventskalender-1e6cff?style=for-the-badge
+[binder-shield]: https://mybinder.org/badge_logo.svg
 [itm-opensource]: https://opensource.muenchen.de/
 [muenchen-digital]: https://muenchen.digital/
+[start-binder]: https://mybinder.org/v2/gh/it-at-m/advent-coding-challenges-24/HEAD
