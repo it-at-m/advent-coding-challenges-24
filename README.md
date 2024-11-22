@@ -19,9 +19,17 @@ Hier findet ihr die Coding Challenges zum Adventskalender 2024 von [München.Dig
 - 🎅 Challenge 3 (ab 16.12.2024) 
 - 🎁 Challenge 4 (ab 23.12.2024) 
 
+⚠ **Warnung:** ⚠
+
+Binder beendet eure Sitzung nach 20 Minuten Inaktivität.
+Speichert eure Arbeit ab, um Datenverlust zu vermeiden.
+Dazu einfach die Buttons oben im Notebook verwenden.
+
+![Binder Speicheranleitung](Binder_speichern.png)
+
 ## Lösungen
 
-Teilt eure Lösungen gerne auf euren Social Media Profilen mit dem Hashtag `#muenchendigital` und verlinkt uns auf [LinkedIn](linkedin-link), [Instagram](instagram-link) oder [X (vorm. Twitter)](x-link).
+Teilt eure Lösungen gerne auf euren Social Media Profilen mit dem Hashtag `#muenchendigital` und verlinkt uns auf [LinkedIn](linkedin-link) oder [Instagram](instagram-link).
 
 ## Hilfe bei Problemen
 
@@ -52,7 +60,6 @@ it@M KICC - itm.kicc@muenchen.de
 [github-shield]: https://img.shields.io/badge/GitHub--Repository-%23121011.svg?logo=github&logoColor=white
 [instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white
-[x-shield]: https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white
 
 [itm-opensource]: https://opensource.muenchen.de/
 [muenchen-digital]: https://muenchen.digital/
@@ -66,4 +73,3 @@ it@M KICC - itm.kicc@muenchen.de
 
 [linkedin-link]: https://www.linkedin.com/showcase/muenchen-digital/
 [instagram-link]: https://www.instagram.com/muenchen.digital/
-[x-link]: https://x.com/MuenchenDigital
