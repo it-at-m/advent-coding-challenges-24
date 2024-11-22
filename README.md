@@ -51,7 +51,6 @@ it@M KICC - itm.kicc@muenchen.de
 
 [![LinkedIn][linkedin-shield]][linkedin-link]
 [![Instagram][instagram-shield]][instagram-link]
-[![X][x-shield]][x-link]
 
 <!-- project shields / links -->
 [made-with-love-shield]: https://img.shields.io/badge/made%20with%20%E2%9D%A4%20by-it%40M-yellow?style=flat
