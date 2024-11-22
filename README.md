@@ -8,6 +8,11 @@
 
 Hier findet ihr die Coding Challenges zum Adventskalender 2024 von [München.Digital.](https://muenchen.digital)
 
+## Interaktiv ausführen
+
+Über den kostenlosen Service Binder könnt ihr die Challenges interaktiv ausführen:
+[![Binder starten](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/it-at-m/advent-coding-challenges-24/HEAD)
+
 ## Challenges
 
 - [Challenge 1](challenges/challenge1.ipynb) ⛄
