@@ -10,7 +10,7 @@
 
 Hier findet ihr die Coding Challenges zum Adventskalender 2024 von [München.Digital.](https://muenchen.digital)
 
-## Challegnes
+## Challenges
 
 Über den kostenlosen Service `Binder` könnt ihr die Challenges bearbeiten: 
 
