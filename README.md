@@ -23,10 +23,6 @@ Hier findet ihr die Coding Challenges zum Adventskalender 2024 von [München.Dig
 
 Teilt eure Lösungen gerne auf euren Social Media Profilen mit dem Hashtag `#muenchendigital` und verlinkt uns auf [LinkedIn](linkedin-link), [Instagram](instagram-link) oder [X (vorm. Twitter)](x-link).
 
-[![LinkedIn][linkedin-shield]][linkedin-link]
-[![Instagram][instagram-shield]][instagram-link]
-[![X][x-shield]][x-link]
-
 ## Hilfe bei Problemen
 
 Zu jeder Challenge gibt es auch eine Musterlösung. 
@@ -43,7 +39,11 @@ Distributed under the MIT License. See [LICENSE](LICENSE) file for more informat
 
 ## Contact
 
-it@M - itm.kicc@muenchen.de
+it@M KICC - itm.kicc@muenchen.de
+
+[![LinkedIn][linkedin-shield]][linkedin-link]
+[![Instagram][instagram-shield]][instagram-link]
+[![X][x-shield]][x-link]
 
 <!-- project shields / links -->
 [made-with-love-shield]: https://img.shields.io/badge/made%20with%20%E2%9D%A4%20by-it%40M-yellow?style=flat
