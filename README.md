@@ -14,12 +14,12 @@ Hier findet ihr die Coding Challenges zum Adventskalender 2024 von [München.Dig
 
 Über den kostenlosen Service `Binder` könnt ihr die Challenges bearbeiten: 
 
-- ⛄ Challenge 1: [In Binder öffnen und bearbeiten][challenge1-binder] / [Code-Vorlage anzeigen][challenge1-github]
+- ⛄ Challenge 1: [In Binder öffnen und bearbeiten][challenge1-binder] / [Code-Vorlage anzeigen][challenge1-github] (bis 08.12.2024 am Gewinnspiel (s.u.) teilnehmen)
 - 🎄 Challenge 2 (ab 09.12.2024) 
 - 🎅 Challenge 3 (ab 16.12.2024) 
 - 🎁 Challenge 4 (ab 23.12.2024) 
 
-⚠ **Warnung:** ⚠
+⚠ **Achtung:** ⚠
 
 Binder beendet eure Sitzung nach 20 Minuten Inaktivität.
 Speichert eure Arbeit ab, um Datenverlust zu vermeiden.
@@ -27,16 +27,38 @@ Dazu einfach die Buttons oben im Notebook verwenden.
 
 ![Binder Speicheranleitung](Binder_speichern.png)
 
-## Lösungen
+## Gewinnspiel
 
-Teilt eure Lösungen gerne auf euren Social Media Profilen mit dem Hashtag `#muenchendigital` und verlinkt uns auf [LinkedIn](linkedin-link) oder [Instagram](instagram-link).
+ℹ️ So funktioniert das Gewinnspiel rund um die KICC Coding Challenge:
+
+- ✔️ folgt uns auf dem jeweiligen Social Media Kanal eurer Wahl ([LinkedIn](linkedin-link) oder [Instagram](instagram-link))
+- ✔️ teilt euer Ergebnis in einem eigenen Beitrag oder schickt uns eine Direktnachricht mit eurer Lösung
+- ✔️ wer den Beitrag teilt bekommt extra gutes Karma (ist aber kein Muss)
+
+
+Viel Erfolg beim Mitmachen und eine frohe Adventszeit!🍀🙌
+
+Schaut gerne auch auf [Instagram](instagram-link) bei unserem täglichen Adventskalender vorbei und erfahrt unter anderem spannende technische Tipps und Tricks passend zur Weihnachtszeit, interessante Fun Facts mit IT-Bezug sowie Empfehlungen für To Dos in der Vorweihnachtszeit.✨❄️
+
+### Teilnahmebedingungen
+
+Teilnahmezeitraum für das Gewinnspiel der ersten Coding Challenge ist vom 3. Dezember bis zum 8. Dezember um 23.59 Uhr. 
+Die Gewinnerin oder der Gewinner wird am 9. Dezember per Zufallsgenerator aus allen richtigen Einsendungen ausgelost und per Direktnachricht von uns informiert. 
+Die Teilnahme ist freiwillig. Teilnahmeberechtigt sind natürliche Personen, die zum Zeitpunkt der Teilnahme mindestens 18 Jahre alt sind und einen Wohnsitz in Deutschland haben.
+Veranstalter des Gewinnspiels ist das IT-Referat der Landeshauptstadt München, Büro der Referentin, Agnes-Pockels-Bogen 33, 80992 München. 
+Das Gewinnspiel steht in keiner Verbindung zu LinkedIn oder zur Meta Plattform (Instagram oder Facebook) und wird in keiner Weise von einem dieser Unternehmen gesponsert, unterstützt oder organisiert. 
+
+### Datenschutzbestimmungen 
+
+Mit der Teilnahme willigen die Teilnehmenden ein, dass die übermittelten Daten zum Zwecke des Gewinnspiels verarbeitet werden. Die Kontaktdaten werden ausschließlich für das Gewinnspiel zur Verteilung der Gewinne verwendet. Nach Beendigung des Gewinnspiels werden die Daten gelöscht. Persönliche Daten werden nicht zu kommerziellen Zwecken gespeichert oder weitergegeben.
+
 
 ## Hilfe bei Problemen
 
-Zu jeder Challenge gibt es auch eine Musterlösung. 
-Folgende Lösungen stehen zur Verfügung:
+Zu jeder Challenge gibt es auch eine Musterlösung nach Ende des jeweiligen Gewinnspielzeitraums (siehe oben).
+Folgende Lösungen stehen schon zur Verfügung:
 
-- [Lösung Challenge 1][solution1-github] ⛄ 
+- n.n. 
 
 Falls ihr Fragen oder Probleme habt, könnt ihr gerne ein [Issue erstellen](https://github.com/it-at-m/advent-coding-challenges-24/issues/new) oder uns [eine E-Mail schreiben](mailto:itm.kicc@muenchen.de).
 
