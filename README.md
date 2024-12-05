@@ -31,14 +31,14 @@ Dazu einfach die Buttons oben im Notebook verwenden.
 
 ℹ️ So funktioniert das Gewinnspiel rund um die KICC Coding Challenge:
 
-- ✔️ folgt uns auf dem jeweiligen Social Media Kanal eurer Wahl ([LinkedIn](linkedin-link) oder [Instagram](instagram-link))
+- ✔️ folgt uns auf dem jeweiligen Social Media Kanal eurer Wahl ([LinkedIn][linkedin-link] oder [Instagram][instagram-link])
 - ✔️ teilt euer Ergebnis in einem eigenen Beitrag oder schickt uns eine Direktnachricht mit eurer Lösung
 - ✔️ wer den Beitrag teilt bekommt extra gutes Karma (ist aber kein Muss)
 
 
 Viel Erfolg beim Mitmachen und eine frohe Adventszeit!🍀🙌
 
-Schaut gerne auch auf [Instagram](instagram-link) bei unserem täglichen Adventskalender vorbei und erfahrt unter anderem spannende technische Tipps und Tricks passend zur Weihnachtszeit, interessante Fun Facts mit IT-Bezug sowie Empfehlungen für To Dos in der Vorweihnachtszeit.✨❄️
+Schaut gerne auch auf [Instagram][instagram-link] bei unserem täglichen Adventskalender vorbei und erfahrt unter anderem spannende technische Tipps und Tricks passend zur Weihnachtszeit, interessante Fun Facts mit IT-Bezug sowie Empfehlungen für To Dos in der Vorweihnachtszeit.✨❄️
 
 ### Teilnahmebedingungen
 
