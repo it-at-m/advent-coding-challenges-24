@@ -29,7 +29,7 @@ python-dateutil==2.9.0.post0
     #   pandas
 pytz==2024.2
     # via pandas
-six==1.16.0
+six==1.17.0
     # via python-dateutil
 tzdata==2024.2
     # via pandas
