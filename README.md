@@ -14,8 +14,8 @@ Hier findet ihr die Coding Challenges zum Adventskalender 2024 von [München.Dig
 
 Über den kostenlosen Service `Binder` könnt ihr die Challenges bearbeiten: 
 
-- ⛄ Challenge 1: [In Binder öffnen und bearbeiten][challenge1-binder] / [Code-Vorlage anzeigen][challenge1-github] (bis 08.12.2024 am Gewinnspiel (s.u.) teilnehmen)
-- 🎄 Challenge 2 (ab 09.12.2024) 
+- ⛄ Challenge 1: [In Binder öffnen und bearbeiten][challenge1-binder] / [Code-Vorlage anzeigen][challenge1-github] 
+- 🎄 Challenge 2: [In Binder öffnen und bearbeiten][challenge2-binder] / [Code-Vorlage anzeigen][challenge2-github] (bis 15.12.2024 am Gewinnspiel (s.u.) teilnehmen)
 - 🎅 Challenge 3 (ab 16.12.2024) 
 - 🎁 Challenge 4 (ab 23.12.2024) 
 
@@ -42,8 +42,8 @@ Schaut gerne auch auf [Instagram][instagram-link] bei unserem täglichen Advents
 
 ### Teilnahmebedingungen
 
-Teilnahmezeitraum für das Gewinnspiel der ersten Coding Challenge ist vom 3. Dezember bis zum 8. Dezember um 23.59 Uhr. 
-Die Gewinnerin oder der Gewinner wird am 9. Dezember per Zufallsgenerator aus allen richtigen Einsendungen ausgelost und per Direktnachricht von uns informiert. 
+Teilnahmezeitraum für das Gewinnspiel der zweiten Coding Challenge ist vom 8. Dezember bis zum 15. Dezember um 23.59 Uhr. 
+Die Gewinnerin oder der Gewinner wird am 16. Dezember per Zufallsgenerator aus allen richtigen Einsendungen ausgelost und per Direktnachricht von uns informiert. 
 Die Teilnahme ist freiwillig. Teilnahmeberechtigt sind natürliche Personen, die zum Zeitpunkt der Teilnahme mindestens 18 Jahre alt sind und einen Wohnsitz in Deutschland haben.
 Veranstalter des Gewinnspiels ist das IT-Referat der Landeshauptstadt München, Büro der Referentin, Agnes-Pockels-Bogen 33, 80992 München. 
 Das Gewinnspiel steht in keiner Verbindung zu LinkedIn oder zur Meta Plattform (Instagram oder Facebook) und wird in keiner Weise von einem dieser Unternehmen gesponsert, unterstützt oder organisiert. 
@@ -58,7 +58,7 @@ Mit der Teilnahme willigen die Teilnehmenden ein, dass die übermittelten Daten 
 Zu jeder Challenge gibt es auch eine Musterlösung nach Ende des jeweiligen Gewinnspielzeitraums (siehe oben).
 Folgende Lösungen stehen schon zur Verfügung:
 
-- n.n. 
+- 🎁 Challenge 1: [Musterlösung anzeigen][]
 
 Falls ihr Fragen oder Probleme habt, könnt ihr gerne ein [Issue erstellen](https://github.com/it-at-m/advent-coding-challenges-24/issues/new) oder uns [eine E-Mail schreiben](mailto:itm.kicc@muenchen.de).
 
@@ -88,9 +88,11 @@ it@M KICC - itm.kicc@muenchen.de
 
 [start-binder]: https://mybinder.org/v2/gh/it-at-m/advent-coding-challenges-24/HEAD
 [challenge1-binder]: https://mybinder.org/v2/gh/it-at-m/advent-coding-challenges-24/HEAD?urlpath=lab%2Ftree%2Fchallenges%2Fchallenge1.ipynb
+[challenge2-binder]: https://mybinder.org/v2/gh/it-at-m/advent-coding-challenges-24/HEAD?urlpath=lab%2Ftree%2Fchallenges%2Fchallenge2.ipynb
 
 [challenge1-github]: https://github.com/it-at-m/advent-coding-challenges-24/blob/main/challenges/challenge1.ipynb
 [solution1-github]: https://github.com/it-at-m/advent-coding-challenges-24/blob/main/solutions/challenge1_solution.ipynb
+[challenge2-github]: https://github.com/it-at-m/advent-coding-challenges-24/blob/main/challenges/challenge2.ipynb
 
 [linkedin-link]: https://www.linkedin.com/showcase/muenchen-digital/
 [instagram-link]: https://www.instagram.com/muenchen.digital/
