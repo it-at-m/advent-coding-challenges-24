@@ -3,17 +3,22 @@
 branca==0.8.0
     # via folium
 certifi==2024.8.30
-    # via requests
+    # via
+    #   pyogrio
+    #   pyproj
+    #   requests
 charset-normalizer==3.4.0
     # via requests
 contourpy==1.3.1
     # via matplotlib
 cycler==0.12.1
     # via matplotlib
-folium==0.18.0
+folium==0.19.1
     # via advent-coding-challenges-24 (pyproject.toml)
-fonttools==4.55.2
+fonttools==4.55.3
     # via matplotlib
+geopandas==1.0.1
+    # via advent-coding-challenges-24 (pyproject.toml)
 idna==3.10
     # via requests
 jinja2==3.1.4
@@ -26,20 +31,32 @@ markupsafe==3.0.2
     # via jinja2
 matplotlib==3.9.3
     # via advent-coding-challenges-24 (pyproject.toml)
-numpy==2.1.3
+numpy==2.2.0
     # via
     #   contourpy
     #   folium
+    #   geopandas
     #   matplotlib
     #   pandas
+    #   pyogrio
+    #   shapely
 packaging==24.2
-    # via matplotlib
+    # via
+    #   geopandas
+    #   matplotlib
+    #   pyogrio
 pandas==2.2.3
-    # via advent-coding-challenges-24 (pyproject.toml)
+    # via
+    #   advent-coding-challenges-24 (pyproject.toml)
+    #   geopandas
 pillow==11.0.0
     # via matplotlib
+pyogrio==0.10.0
+    # via geopandas
 pyparsing==3.2.0
     # via matplotlib
+pyproj==3.7.0
+    # via geopandas
 python-dateutil==2.9.0.post0
     # via
     #   matplotlib
@@ -48,6 +65,8 @@ pytz==2024.2
     # via pandas
 requests==2.32.3
     # via folium
+shapely==2.0.6
+    # via geopandas
 six==1.17.0
     # via python-dateutil
 tzdata==2024.2
