@@ -2,7 +2,7 @@
 #    uv pip compile --universal pyproject.toml -o requirements.txt
 branca==0.8.0
     # via folium
-certifi==2024.8.30
+certifi==2024.12.14
     # via
     #   pyogrio
     #   pyproj
