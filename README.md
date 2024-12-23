@@ -17,7 +17,7 @@ Hier findet ihr die Coding Challenges zum Adventskalender 2024 von [München.Dig
 - ⛄ Challenge 1: [In Binder öffnen und bearbeiten][challenge1-binder] / [Code-Vorlage anzeigen][challenge1-github] 
 - 🎄 Challenge 2: [In Binder öffnen und bearbeiten][challenge2-binder] / [Code-Vorlage anzeigen][challenge2-github] 
 - 🎅 Challenge 3: [In Binder öffnen und bearbeiten][challenge3-binder] / [Code-Vorlage anzeigen][challenge3-github]
-- 🎁 Challenge 4: [In Binder öffnen und bearbeiten][challenge3-binder] / [Code-Vorlage anzeigen][challenge3-github] (bis 29.12.2024 am Gewinnspiel (s.u.) teilnehmen)
+- 🎁 Challenge 4: [In Binder öffnen und bearbeiten][challenge4-binder] / [Code-Vorlage anzeigen][challenge4-github] (bis 29.12.2024 am Gewinnspiel (s.u.) teilnehmen)
 
 ⚠ **Achtung:** ⚠
 
@@ -43,7 +43,7 @@ Schaut gerne auch auf [Instagram][instagram-link] bei unserem täglichen Advents
 ### Teilnahmebedingungen
 
 Teilnahmezeitraum für das Gewinnspiel der zweiten Coding Challenge ist vom 23. Dezember bis zum 29. Dezember um 23.59 Uhr. 
-Die Gewinnerin oder der Gewinner wird am 16. Dezember per Zufallsgenerator aus allen richtigen Einsendungen ausgelost und per Direktnachricht von uns informiert. 
+Die Gewinnerin oder der Gewinner wird am 30. Dezember per Zufallsgenerator aus allen richtigen Einsendungen ausgelost und per Direktnachricht von uns informiert. 
 Die Teilnahme ist freiwillig. Teilnahmeberechtigt sind natürliche Personen, die zum Zeitpunkt der Teilnahme mindestens 18 Jahre alt sind und einen Wohnsitz in Deutschland haben.
 Veranstalter des Gewinnspiels ist das IT-Referat der Landeshauptstadt München, Büro der Referentin, Agnes-Pockels-Bogen 33, 80992 München. 
 Das Gewinnspiel steht in keiner Verbindung zu LinkedIn oder zur Meta Plattform (Instagram oder Facebook) und wird in keiner Weise von einem dieser Unternehmen gesponsert, unterstützt oder organisiert. 
