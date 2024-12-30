@@ -31,7 +31,7 @@ jinja2==3.1.5
     #   folium
 joblib==1.4.2
     # via scikit-learn
-kiwisolver==1.4.7
+kiwisolver==1.4.8
     # via matplotlib
 mapclassify==2.8.1
     # via advent-coding-challenges-24 (pyproject.toml)
