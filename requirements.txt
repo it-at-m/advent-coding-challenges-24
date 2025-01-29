@@ -15,7 +15,7 @@ cycler==0.12.1
     # via matplotlib
 folium==0.19.2
     # via advent-coding-challenges-24 (pyproject.toml)
-fonttools==4.55.3
+fonttools==4.55.8
     # via matplotlib
 geographiclib==2.0
     # via geopy
