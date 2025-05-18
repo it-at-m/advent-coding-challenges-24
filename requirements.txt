@@ -41,7 +41,7 @@ matplotlib==3.9.3
     # via advent-coding-challenges-24 (pyproject.toml)
 networkx==3.4.2
     # via mapclassify
-numpy==2.2.1
+numpy==2.2.6
     # via
     #   contourpy
     #   folium
