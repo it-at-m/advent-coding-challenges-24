@@ -89,7 +89,7 @@ scipy==1.14.1
     # via
     #   mapclassify
     #   scikit-learn
-shapely==2.0.6
+shapely==2.1.1
     # via geopandas
 six==1.17.0
     # via python-dateutil
