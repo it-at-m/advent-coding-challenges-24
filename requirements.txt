@@ -39,7 +39,7 @@ markupsafe==3.0.2
     # via jinja2
 matplotlib==3.9.3
     # via advent-coding-challenges-24 (pyproject.toml)
-networkx==3.4.2
+networkx==3.5
     # via mapclassify
 numpy==2.2.1
     # via
