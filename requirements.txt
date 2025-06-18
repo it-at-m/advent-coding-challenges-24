@@ -97,7 +97,7 @@ threadpoolctl==3.5.0
     # via scikit-learn
 tzdata==2024.2
     # via pandas
-urllib3==2.3.0
+urllib3==2.5.0
     # via requests
 xyzservices==2024.9.0
     # via folium
