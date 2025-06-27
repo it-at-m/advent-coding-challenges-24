@@ -19,7 +19,7 @@ fonttools==4.55.3
     # via matplotlib
 geographiclib==2.0
     # via geopy
-geopandas==1.0.1
+geopandas==1.1.1
     # via advent-coding-challenges-24 (pyproject.toml)
 geopy==2.4.1
     # via advent-coding-challenges-24 (pyproject.toml)
