@@ -63,7 +63,7 @@ pandas==2.2.3
     #   advent-coding-challenges-24 (pyproject.toml)
     #   geopandas
     #   mapclassify
-pillow==11.0.0
+pillow==11.3.0
     # via matplotlib
 pyogrio==0.10.0
     # via geopandas
