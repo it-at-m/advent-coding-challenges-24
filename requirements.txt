@@ -69,7 +69,7 @@ pyogrio==0.10.0
     # via geopandas
 pyparsing==3.2.0
     # via matplotlib
-pyproj==3.7.0
+pyproj==3.7.2
     # via geopandas
 python-dateutil==2.9.0.post0
     # via
