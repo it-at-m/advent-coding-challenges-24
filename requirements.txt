@@ -58,7 +58,7 @@ packaging==24.2
     #   geopandas
     #   matplotlib
     #   pyogrio
-pandas==2.2.3
+pandas==2.3.2
     # via
     #   advent-coding-challenges-24 (pyproject.toml)
     #   geopandas
