@@ -17,7 +17,7 @@ folium==0.19.2
     # via advent-coding-challenges-24 (pyproject.toml)
 fonttools==4.55.3
     # via matplotlib
-geographiclib==2.0
+geographiclib==2.1
     # via geopy
 geopandas==1.0.1
     # via advent-coding-challenges-24 (pyproject.toml)
