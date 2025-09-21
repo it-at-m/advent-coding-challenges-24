@@ -67,7 +67,7 @@ pillow==11.0.0
     # via matplotlib
 pyogrio==0.10.0
     # via geopandas
-pyparsing==3.2.0
+pyparsing==3.2.5
     # via matplotlib
 pyproj==3.7.0
     # via geopandas
